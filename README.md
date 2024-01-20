@@ -56,25 +56,25 @@ A plain code block
 
 -	Пункт 1
 -	Пункт 2
-   + подпункт 1
-   + подпункт 2
++ подпункт 1
++ подпункт 2
 
 * unordered list
 * item 2
- + sub-item 1
- + sub-item 2
++ sub-item 1
++ sub-item 2
 
 1. ordered list
 2. item 2
- + sub-item 1
- + sub-item 2
++ sub-item 1
++ sub-item 2
    
 Упорядоченный список:
 
 1.	Пункт 1
 2.	Пункт 2
-a.	подпункт 1
-b.	подпункт 2
+ a.	подпункт 1
+ b.	подпункт 2
 ***
 
 1. Пункт списка
