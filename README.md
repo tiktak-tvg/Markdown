@@ -380,7 +380,9 @@ Pandoc будет начинать новый слайд с каждого за�
 [Почта mail](mailto:yandex@mail.ru)
 [Почта rambler](mailto:yandex@rambler.ru)
 ***
+![image](https://github.com/tvgVita69/Markdown/assets/98489171/c9a77fb4-540a-4610-bff8-01ba415b4ae8)
 
+![image](https://github.com/tvgVita69/Markdown/assets/98489171/cf11aaea-276e-4dbd-9307-8339324e8963)
 
 
 
