@@ -146,7 +146,12 @@ ___
 
 встроенное уравнение,Е = мс2. Блок уравнений (ниже)
 
-Е = мс2
+Е = мс^{2}$
+
+Table Header  | Second Header
+------------- | -------------
+Table Cell    | Cell 2
+Cell 3        | Cell 4
 
 Гиперссылка (на rmarkdown.rstudio.com) (http://rmarkdown.rstudio.com) Горизонтальная линейка (поставьте одну ниже)
 
