@@ -212,6 +212,25 @@ paste("Hello", "World!")
 ```
 
 ----************************************************************************************---
+<pre>
+Код:
+# Dividing slides 1
+Pandoc will start a new slide at each first level header
+## Header 2
+… as well as each second level header
+***
+You can start a new slide with a horizontal rule`***` if you do not want
+a header.
+## Bullets
+Render bullets with
+- a dash
+- another dash
+## Incremental bullets
+>- Use this format
+>- to have bullets appear
+>- one at a time (incrementally)
+</pre>
+***Результат:***
 
 # Dividing slides 1
 Pandoc will start a new slide at each first level header
