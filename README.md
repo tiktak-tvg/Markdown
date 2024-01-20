@@ -162,6 +162,23 @@ Cell 3        | Cell 4
 Ячейка 1	   | Ячейка 2
 Ячейка 3	   | Ячейка 4
 
-'''{r}
+```{r}
 paste("Hello", "World!")
-'''
+```
+
+# Dividing slides 1
+Pandoc will start a new slide at each first level header
+## Header 2
+… as well as each second level header
+***
+You can start a new slide with a horizontal rule`***` if you do not want
+a header.
+## Bullets
+Render bullets with
+- a dash
+- another dash
+## Incremental bullets
+>- Use this format
+>- to have bullets appear
+>- one at a time (incrementally)
+
