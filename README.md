@@ -87,15 +87,15 @@ A plain code block
 Упорядоченный список:
 1. Пункт 1
 2.Пункт 2
-a.подпункт 1
-b.подпункт 2
+   a. подпункт 1
+   b. подпункт 2
 ```
 ***
 Упорядоченный список:
 1. Пункт 1
 2. Пункт 2
-3. a.подпункт 1
-4. b.подпункт 2
+   a. подпункт 1
+   b. подпункт 2
 ```
 1. Пункт списка
 2. Пункт списка
@@ -301,43 +301,43 @@ paste("Hello", "World!")
 ***
 ```
 Код:
-# Dividing slides 1
-Pandoc will start a new slide at each first level header
-## Header 2
-… as well as each second level header
+# Разделение слайдов 1
+Pandoc будет начинать новый слайд с каждого заголовка первого уровня.
+## Заголовок 1
+… а также каждый заголовок второго уровня
 ***
-You can start a new slide with a horizontal rule`***` if you do not want
-a header.
-## Bullets
-Render bullets with
-- a dash
-- another dash
-## Incremental bullets
->- Use this format
->- to have bullets appear
->- one at a time (incrementally)
+Вы можете начать новый слайд с горизонтальной линейки `***`, если не хотите.
+заголовок.
+## Заголовок 2
+Рендеринг Заголовок 2 с помощью
+- тире
+- еще один штрих
+## Заголовок 3
+>- Используйте этот формат
+>- чтобы появился Заголовок 3
+>- по одному (постепенно)
 ```
 ***Результат:***
 
-# Dividing slides 1
-Pandoc will start a new slide at each first level header
-## Header 2
-… as well as each second level header
+# Разделение слайдов 1
+Pandoc будет начинать новый слайд с каждого заголовка первого уровня.
+## Заголовок 1
+… а также каждый заголовок второго уровня
 ***
-You can start a new slide with a horizontal rule`***` if you do not want
-a header.
-## Bullets
-Render bullets with
-- a dash
-- another dash
-## Incremental bullets
->- Use this format
->- to have bullets appear
->- one at a time (incrementally)
+Вы можете начать новый слайд с горизонтальной линейки `***`, если не хотите.
+заголовок.
+## Заголовок 2
+Рендеринг Заголовок 2 с помощью
+- тире
+- еще один штрих
+## Заголовок 3
+>- Используйте этот формат
+>- чтобы появился Заголовок 3
+>- по одному (постепенно)
 ***
-Текст, потом сноска[[*]] и вторая[[**]].
+Текст, потом сноска[*] и вторая`**`.
 
-Текст, потом цифровая сноска[[*1]] и вторая[[*2]].
+Текст, потом цифровая сноска`*1` и вторая`*2`.
 
 [[#*]] Расшифровка первой сноски.
 
