@@ -284,11 +284,13 @@ Render bullets with
 
 [ссылка]Гиперссылка (на rmarkdown.rstudio.com) (http://rmarkdown.rstudio.com) 
 
-**[Полужирная ссылка](http://example.com)**	
+**[Полужирная ссылка на rmarkdown.rstudio.com]([http://example.com](http://rmarkdown.rstudio.com))**	
 
 [![Лого](http://img.yandex.net/i/logo95x37x8.png)](https://yandex.ru)
 
-[Почта ya](mailto:ya@yandex.ru)
+[Почта yandex](mailto:yandex@yandex.ru)
+[Почта mail](mailto:yandex@mail.ru)
+[Почта rambler](mailto:yandex@rambler.ru)
 
 
 
