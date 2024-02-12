@@ -384,7 +384,7 @@ Pandoc будет начинать новый слайд с каждого за�
 
 Текст, потом цифровая сноска`*1` и вторая`*2`.
 ***
-[ссылка]Гиперссылка (на rmarkdown.rstudio.com) (http://rmarkdown.rstudio.com) 
+[ссылка](Гиперссылка (на rmarkdown.rstudio.com) (http://rmarkdown.rstudio.com) 
 
 **[Полужирная ссылка на rmarkdown.rstudio.com]([http://example.com](http://rmarkdown.rstudio.com))**	
 
