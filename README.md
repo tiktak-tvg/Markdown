@@ -95,20 +95,19 @@ Content
 Content
 :::
 ----
-Left (opening) quotation mark: &#8220;
-Right (closing) quotation mark: &#8221;
-Right (closing) single quotation mark or apostrophe: &#8217;
-Left (opening) single quotation mark (rarely used): &#8216;
-
-:::row:::
-   :::column span="":::
-      Content...
-   :::column-end:::
-   :::column span="":::
-      More content...
-   :::column-end:::
-:::row-end:::
-
+Код:
+```
+Left(открывающая) кавычка: &#8220;
+Right (закрывающая) кавычка: &#8221;
+Right (закрывающая) одинарная кавычка или апостроф: &#8217;
+Left (открывающая) одинарная кавычка (используется редко): &#8216;
+```
+***Результат:***
+Left(открывающая) кавычка: &#8220;
+Right (закрывающая) кавычка: &#8221;
+Right (закрывающая) одинарная кавычка или апостроф: &#8217;
+Left (открывающая) одинарная кавычка (используется редко): &#8216;
+----
 ```
 Ненумерованный список:
 - Пункт 1
