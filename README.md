@@ -96,13 +96,8 @@ Content
 :::
 ----
 
-:::note
-This is a note
-:::
-
-:::warning
-This is a warning
-:::
+> **alert#9a6700;Warning**
+> This is a warning
 
 ```
 Ненумерованный список:
