@@ -96,8 +96,11 @@ Content
 :::
 ----
 
-> **alert#9a6700;Warning**
-> This is a warning
+> [!INSTRUCTIONS]
+> A clear and concise guide on how to perform a specific task or achieve a particular outcome.
+
+> > [!EXAMPLE]
+> A demonstration on how to perform a specific task or achieve a particular outcome.
 
 ```
 Ненумерованный список:
