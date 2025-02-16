@@ -92,11 +92,11 @@ A plain code block
 > [!CAUTION]
 > Потенциальные отрицательные последствия действия.
 
-:::i "Info"
+::: i "Info"
 This is the content of an info message
 :::
 
-:::! "Warning"
+::: ! "Warning"
 This is the content of a warning message
 :::
 
