@@ -123,7 +123,7 @@ Left (открывающая) одинарная кавычка (использ�
     Какой-нибудь длиинный дополнительный текст, который по умолчанию должен быть скрыт. Его можно показать, нажав на спойлер.
 </details>
 
-- [x] #739;
+- [X] @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 - [ ]  \(Optional) Open a followup issue
