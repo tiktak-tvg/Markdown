@@ -53,15 +53,13 @@ A plain code block
 ```
 > Информация
 {.is-info}
-
 > Успешно
 {.is-success}
-
 > Предупреждение
 {.is-warning}
-
 > Ошибка
 {.is-danger}
+
 
 > [!NOTE]  
 > Выделяет информацию, которую пользователи должны учитывать, даже при беглом просмотре.
@@ -93,6 +91,30 @@ A plain code block
 
 > [!CAUTION]
 > Потенциальные отрицательные последствия действия.
+
+:::i "Info"
+This is the content of an info message
+:::
+
+:::! "Warning"
+This is the content of a warning message
+:::
+
+:::x "Danger"
+This is the content of a severe danger message
+:::
+
+:::v "Affirmation"
+This is the content of an affirmation message
+:::
+
+:::? "Tip"
+This is the content of a tip message
+:::
+
+:::type "title"
+Content
+:::
 ----
 ```
 Ненумерованный список:
@@ -330,6 +352,11 @@ $Е = мс^{2}$
 Одина звездочка внутри строчного кода: `` * ``
 Ограниченная звездочками строка внутри строчного кода: `` *foo* ``
 
+> **Note**
+> Это заметка.
+
+> **Warning**
+> Это предупреждение.
 ```
 ***Результат:***
 
@@ -367,6 +394,12 @@ $Е = мс^{2}$
 
 Одина звездочка внутри строчного кода: `` * ``
 Ограниченная звездочками строка внутри строчного кода: `` *foo* ``
+
+> **Note**
+> This is a note
+
+> **Warning**
+> This is a warning
 ***
 ```
       <?
