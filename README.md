@@ -1,4 +1,4 @@
-<span style="color:blue">Markdown</span>
+<span style="align:center">Markdown</span>
 
 ```
 Код:
