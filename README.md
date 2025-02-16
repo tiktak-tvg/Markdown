@@ -95,6 +95,15 @@ Content
 Content
 :::
 ----
+
+:::note
+This is a note
+:::
+
+:::warning
+This is a warning
+:::
+
 ```
 Ненумерованный список:
 - Пункт 1
