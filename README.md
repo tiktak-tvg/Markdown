@@ -64,35 +64,35 @@ A plain code block
 {.is-danger}
 
 > [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+> Выделяет информацию, которую пользователи должны учитывать, даже при беглом просмотре.
 
 > [!TIP]
-> Optional information to help a user be more successful.
+> Необязательная информация, которая поможет пользователю добиться большего успеха.
 
 > [!IMPORTANT]  
 > Crucial information necessary for users to succeed.
 
 > [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
+> Важнейшая информация, необходимая для успеха пользователей.
 
 > [!CAUTION]
-> Negative potential consequences of an action.
+> Потенциальные отрицательные последствия действия.
 ```
 ***Результат:***
 > [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+> Выделяет информацию, которую пользователи должны учитывать, даже при беглом просмотре.
 
 > [!TIP]
-> Optional information to help a user be more successful.
+> Необязательная информация, которая поможет пользователю добиться большего успеха.
 
 > [!IMPORTANT]  
 > Crucial information necessary for users to succeed.
 
 > [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
+> Важнейшая информация, необходимая для успеха пользователей.
 
 > [!CAUTION]
-> Negative potential consequences of an action.
+> Потенциальные отрицательные последствия действия.
 ----
 ```
 Ненумерованный список:
