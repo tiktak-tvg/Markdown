@@ -95,12 +95,19 @@ Content
 Content
 :::
 ----
+Left (opening) quotation mark: &#8220;
+Right (closing) quotation mark: &#8221;
+Right (closing) single quotation mark or apostrophe: &#8217;
+Left (opening) single quotation mark (rarely used): &#8216;
 
-> [!INSTRUCTIONS]
-> A clear and concise guide on how to perform a specific task or achieve a particular outcome.
-
-> > [!EXAMPLE]
-> A demonstration on how to perform a specific task or achieve a particular outcome.&#8220;
+:::row:::
+   :::column span="":::
+      Content...
+   :::column-end:::
+   :::column span="":::
+      More content...
+   :::column-end:::
+:::row-end:::
 
 ```
 Ненумерованный список:
