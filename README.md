@@ -51,16 +51,6 @@ A plain code block
 ----
 Код:
 ```
-> Информация
-{.is-info}
-> Успешно
-{.is-success}
-> Предупреждение
-{.is-warning}
-> Ошибка
-{.is-danger}
-
-
 > [!NOTE]  
 > Выделяет информацию, которую пользователи должны учитывать, даже при беглом просмотре.
 
@@ -92,7 +82,7 @@ A plain code block
 > [!CAUTION]
 > Потенциальные отрицательные последствия действия.
 
-::: i "Info"
+::i "Info"
 This is the content of an info message
 :::
 
