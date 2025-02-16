@@ -82,27 +82,14 @@ A plain code block
 > [!CAUTION]
 > Потенциальные отрицательные последствия действия.
 
-:i "Info"
-This is the content of an info message
-:
-
-:tip-caption:
-
-:! "Warning"
-This is the content of a warning message
-:
-
-:::x "Danger"
-This is the content of a severe danger message
+----
+Код:
+```
+:::type "title"
+Content
 :::
-
-:::v "Affirmation"
-This is the content of an affirmation message
-:::
-
-:::? "Tip"
-This is the content of a tip message
-:::
+```
+***Результат:***
 
 :::type "title"
 Content
