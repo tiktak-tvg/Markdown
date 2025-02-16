@@ -100,7 +100,7 @@ Content
 > A clear and concise guide on how to perform a specific task or achieve a particular outcome.
 
 > > [!EXAMPLE]
-> A demonstration on how to perform a specific task or achieve a particular outcome.
+> A demonstration on how to perform a specific task or achieve a particular outcome.&#8220;
 
 ```
 Ненумерованный список:
