@@ -233,9 +233,14 @@ Left (открывающая) одинарная кавычка (использ�
 ***
 ```
 > [!div class="nextstepaction"]
+> [button text](link to topic)
+
+> [!div class="nextstepaction"]
 > [Learn about adding code to articles](code-in-docs.md)
 ```
 ***Результат:***
+> [!div class="nextstepaction"]
+> [button text](link to topic)
 
 > [!div class="nextstepaction"]
 > [Learn about adding code to articles](code-in-docs.md)
